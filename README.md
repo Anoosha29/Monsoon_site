@@ -1,6 +1,7 @@
-🌧️ Monsoon Magic Website
+##  Monsoon Magic Website 🌧️
 
-Welcome to the **Monsoon Magic Website** — a fully responsive and visually engaging website built using **HTML**, **CSS**, and **JavaScript**, designed to capture the calming essence of the rainy season. ☔
+Welcome to the **Monsoon Magic Website** —
+a fully responsive and visually engaging website built using **HTML**, **CSS**, and **JavaScript**, designed to capture the calming essence of the rainy season. 
 
 ---
 
@@ -22,15 +23,36 @@ Welcome to the **Monsoon Magic Website** — a fully responsive and visually eng
 
 ---
 
+---
+
+Live preview :  https://anoosha29.github.io/Monsoon_site/
+
+---
+
 ## About This Project
 This is part of a "30 Days 30 Websites" Challenge, where each project targets UI/UX
 skills and frontend development improvement. 
 
----
- ## Live Veiw
- Coming soon
 
- ---
+##  How to Use
 
- 
+1. Clone the repository:
+   ```bash
+   git clone  https://anoosha29.github.io/Monsoon_site/
+   Open index.html in your browser.
+
+
+
+📬 Contact
+For collaborations or inquiries:
+
+✉️ Email: anooshashahid29@gmail.com
+
+📄 License
+This project is for educational/portfolio use only. All rights reserved.
+
+Created By :
+Anosha
+
+
  
